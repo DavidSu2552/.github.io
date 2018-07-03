@@ -1,0 +1,16 @@
+title {font-family:Microsoft JhengHei;}
+h1 {font-family:Microsoft JhengHei;color: indigo;padding-left: 10pt}
+    p {font-family:Microsoft JhengHei;}
+    body {background-image: url('https://goo.gl/JmX2Xg');
+          background-repeat: no-repeat;
+          background-position: left top;
+          background-attachment: fixed;
+          background-size: 105%}
+        .title1 {color:goldenrod;padding-left: 10pt}
+        .word1 {color:dimgrey;padding-left: 10pt}
+        .title2 {color: black;padding-left: 10pt}
+        .word2 {color: rgb(2, 88, 88);padding-left: 10pt}
+        .title3 {color: aqua;padding-left: 10pt}
+        .word3 {color: chartreuse;padding-left: 10pt}
+        .title4 {color:coral;padding-left: 10pt}
+        .word4 {color:rgb(197, 6, 255);padding-left: 10pt}
